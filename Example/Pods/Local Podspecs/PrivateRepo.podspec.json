@@ -1,0 +1,24 @@
+{
+  "name": "PrivateRepo",
+  "version": "0.1.0",
+  "summary": "A short description of PrivateRepo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ziadghali2/PrivateRepo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ziadghali2": "ziadghali2@gmail.con"
+  },
+  "source": {
+    "git": "https://github.com/ziadghali2/PrivateRepo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "PrivateRepo/Classes/**/*",
+  "swift_version": "5.0"
+}

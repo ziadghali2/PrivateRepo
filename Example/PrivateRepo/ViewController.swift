@@ -7,11 +7,13 @@
 //
 
 import UIKit
+import PrivateRepo
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print(Repo().getRepo())
         // Do any additional setup after loading the view, typically from a nib.
     }
 
