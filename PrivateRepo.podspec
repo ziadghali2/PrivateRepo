@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'PrivateRepo'
   s.version          = '1.0.0'
-  s.summary          = 'A short description of PrivateRepo.'
+  s.summary          = 'PrivateRepo framework to check all private relevant'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -19,6 +19,8 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
+use this command to install
+pod'PrivateRepo'
                        DESC
 
   s.homepage         = 'https://github.com/ziadghali2/PrivateRepo'
